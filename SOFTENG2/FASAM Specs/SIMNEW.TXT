@@ -1,0 +1,47 @@
+General Office           100  0
+Design Office            100  0
+Accountant               100  0
+Security Control         100  0
+Reception                100  0
+Chairman                 100  0
+Board Room               100  0
+Managing Director        100  0
+Gents Toilets            100  0
+Ladies Toilets           100  0
+Main Door                100  0
+Emergency Exit A         100  0
+Delivery Bay             100  0
+Stores Office            100  0
+Toilets and Washroom     100  0
+Delivery Entrance        100  0
+Dispatch Bay             100  0
+Packing Bay              100  0
+Main Store A             100  0
+Main Store B             100  0
+Main Store C             100  0
+Main Store D             100  0
+Emergency Exit B         100  0
+Switchboard              100  0
+Final Assembly Area A    100  0
+Final Assembly Area B    100  0
+Final Assembly Area C    100  0
+Paint Shop section 1     100  0
+Paint Shop section 2     100  0
+Paint Shop section 3     100  0
+Sub-assembly Area A      100  0
+Sub-assembly Area B      100  0
+Emergency Exit C         100  0
+Emergency Exit D         100  0
+Electrical Plant         100  0
+Fire Equipment Store     100  0
+
+
+
+
+
+
+
+
+
+
+     

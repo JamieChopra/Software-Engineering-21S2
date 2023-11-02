@@ -1,0 +1,41 @@
+
+
+
+    LOG REPORT AT     11 : 0 4
+
+General Office                   9       100
+Design Office                    9       100
+Accountant                       9       100
+Security Control                 9       100
+Reception                        9       100
+Chairman                         9       100
+Board Room                       9       100
+Managing Director                9       100
+Gents Toilets                    9       100
+Ladies Toilets                   9       100
+Main Door                        9       100
+Emergency Exit A                 9       100
+Delivery Bay                     9       100
+Stores Office                    9       100
+Toilets and Washroom             9       100
+Delivery Entrance                9       100
+Dispatch Bay                     9       100
+Packing Bay                      9       100
+Main Store A                     9       100
+Main Store B                     9       100
+Main Store C                     9       100
+Main Store D                     9       100
+Emergency Exit B                 9       100
+Switchboard                      9       100
+Final Assembly Area A            9       100
+Final Assembly Area B            9       100
+Final Assembly Area C            9       100
+Paint Shop section 1             9       100
+Paint Shop section 2             9       100
+Paint Shop section 3             9       100
+Sub-assembly Area A              9       100
+Sub-assembly Area B              9       100
+Emergency Exit C                 9       100
+Emergency Exit D                 9       100
+Electrical Plant                 9       100
+Fire Equipment Store             9       100
